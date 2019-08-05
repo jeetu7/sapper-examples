@@ -16,3 +16,9 @@ the jwt token for authentication cum commuincation with the REST backend.
 
 Logout will be handled by frontend by hitting a logout request which will
 delete the jwt from REDIS and invalidate the session cookie.
+
+
+# For frontend
+Setup done using standard 
+  npx degit sveltejs/sapper-template#rollup frontend
+  

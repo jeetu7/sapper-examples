@@ -23,3 +23,9 @@ Setup done using standard
   npx degit sveltejs/sapper-template#rollup frontend
   npm install
   npm install express-session session-file-store body-parser 
+
+References:
+https://www.nielsvandermolen.com/authentication-example-svelte-sapper/
+https://www.nielsvandermolen.com/signup-form-html5-validation-svelte/
+https://gist.github.com/antony/f6dabbf804f4b5f06706556f7a4341c3
+https://github.com/sveltejs/realworld
